@@ -1,4 +1,4 @@
-# Podcast Questions - Chapter 08
+# Podcast Questions - Chapter 05
 
 [Command Line Heroes: Bash](https://www.redhat.com/en/command-line-heroes/season-3/heroes-in-a-bash-shell "Command Line Heroes: bash")
 
