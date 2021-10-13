@@ -2,9 +2,7 @@
 
 1) What is the term for the industry standard file format that is used to install a Linux distro?
   a. ISO
-  b. ZIP
-  c. Disk-ISO
-  d. Distro
+ 
 2) What is currently the most common Linux install media type?
   a. CD-ROMs
   b. Network based installs
