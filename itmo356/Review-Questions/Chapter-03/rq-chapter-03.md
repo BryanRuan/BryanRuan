@@ -5,32 +5,34 @@
  
 2) What is currently the most common Linux install media type?
   a. CD-ROMs
-  b. Network based installs
+ 
   c. USB
-  d. Thunderbolt
+
 3) What is the name of recommended tool used to create bootable Linux install media?
-  a. Pendrive Linux
+ 
   b. etcher.io
-  c. UNetbootin
-  d. Image Magick
+
 4) What is the technology that is inserted between ring 1 and ring 0 that enables virtualization?
+The Pacifica
 
 5) The operating system that the hypervisor resides on is called the _________ system?
+guest operating system
 
 6) Hosted or desktop virtualization is called what type of hypervisor?
+Type II Hypervisor
 
 7) Bare Metal or Native Virtualization is called what type of hypervisor?
+Type I Hypervisor
 
 8) Each Linux installation distro provides a mechanism to compare what you downloaded with what you expected to download, what is that called?
-  a. mount point
+
   b. checksum
-  c. receipt
-  d. mdsum
+ 
 9) What is the name of the driver package you can install in VirtualBox in order to enable features such as shared clipboard, larger screen resolution, and mouse pointer integration?
   a. Kernel modules
   b. Kernel drivers
   c. VirtualBox extensions
-  d. ISO extensions
+  d. ISO extensions-
 10) What is the name for a Linux distribution that runs in memory?
   a. Rapid CD
   b. Live ISO
@@ -53,7 +55,7 @@
   d. None of the above
 14) Which distro(s) supports the RPM package?
   a. CentOS only
-  b. Red Hat Family
+  b. Red Hat Family-
   c. Debian and Red Hat
   d. None of the above
 15) We talked about using GCC to compile and install software, what was the other language/package manager discussed in the chapter?
