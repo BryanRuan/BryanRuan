@@ -46,13 +46,17 @@ Mir
 11) There are 4 major Linux desktop environments in use today: which grouping is correct?
 
   d. KDE, GNOME, Xfce, LXDE
+
 12) What is the name of the windowing toolkit that KDE uses?
+
 Qt
 
 13) What is the name of the windowing toolkit that GNOME uses?
+
 GTK+
 
 14) What is the name of the founder of the GNOME project?
+
 Miguel de Icaza
 
 15) When the GNOME 3 desktop environment was released in early 2012, many people were
