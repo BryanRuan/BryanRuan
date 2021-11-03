@@ -3,10 +3,9 @@
 1) True or False The Bash shell scripting language has traditional language constructs like C or Java?
 
 2) What meta-character do you use to access the content of a shell variable?
+
 a.  ```$```
-b.  ```#```
-c.  ```!```
-d.  No character - trick questions
+
 
 3) When assigning the standard output of a command to a variable which of these are valid methods?
 a. DT=``` `date` ```
@@ -16,31 +15,30 @@ d. Not possible, trick questions
 
 4) True or False - You can include shell meta-characters inside of two backticks ``` ` ` ``` - example: ANS=``` `ls -l test[1-5]` ```
 
+True
+
 5) Which command will list the names of any file that matches these names: file1.txt file2.txt file3.txt file4.txt and send the content of that output to a variable named DIR?
+
 a. `DIR='ls -l ./test[1-4].txt'`
-b. DIR = ``` `ls -l ./test[1-4].txt` ```
-c. $DIR=``` `ls -l ./test[1-4].txt` ```
-d. DIR=``` `ls -l ./test[1-4].txt` ```
+
 
 6) Which of these are valid commands in the first line of a shell script?  (Choose any - assume any paths are valid paths to executables)
 a. ```#!/bin/bash```
-b. ```!#/bin/bash```
+
 c. ```#!/usr/local/bin/bash```
-d. ```#/bin/bash```
+
 e. ```#!/bin/ksh```
 
 7) If you stored the output of the command hostname into a variable named sys-hostname, what would be the command to print the content to the screen?
-a.  ```echo $HOSTNAME```
-b.  ```echo $hostname```
-c.  ```echo $SYS-HOSTNAME```
+
 d.  ```echo $sys-hostname```
 
 8) What is the name of the command to print out all the predefined system variables?
 
+printenv
+
 9) What is the name of the command that allows you to take stdout of a command and insert the lines of output into an array?
-a. arrayfile
-b. declare
-c. for loop
+
 d. mapfile
 
 10) Which of these is a valid command to take the output of this find command and assign the contents to an array?  (Assume the array name has already been declared. Choose one)
@@ -74,16 +72,14 @@ c.  ```echo $0```
 d.  ```echo $@```
 
 15) In a Bash IF statement, what is the name for the pre-made test conditions?
+
 a. Primaries
-b. Secondary expressions
-c. Expression
-d. Primary expressions
+
 
 16) All values in a Bash IF statement are of what data type by default?
-a. INT
+
 b. STRING
-c. NULL
-d. CHAR
+
 
 17) Which of these answers will execute a shell script named ~/backup.sh at 2 am every night of the week?
 a. ```* * * * * ~/backup.sh```
@@ -104,7 +100,5 @@ c. ```1 1 1 1 1 ~/give-free-cash-to-students.sh```
 d. &#64;```yearly ~/give-free-cash-to-students.sh```
 
 20) What is the name of the control structure that allows you to incrementally through the contents of an array?
-a. IF
-b. CASE
-c. UNTIL
+
 d. FOR
