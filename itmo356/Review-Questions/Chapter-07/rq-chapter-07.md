@@ -9,10 +9,9 @@
    d. Stream Editors
 
 3. What type of editor is GNU Nano?
-   a. stream
+   
    b. text
-   c. A small one
-   d. file
+   
 
 4. Who created the vi editor?
    
