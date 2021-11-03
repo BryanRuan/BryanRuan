@@ -83,9 +83,7 @@ d. dmesg
 d. grep
 
 19. When you combine a tar (tape archive) and an additional compression method--what is the name for the resulting file?
-a. tar
-b. tarx
-c. tarall
+
 d. tarball
 
 20. What is the name of the GNU compression tool project released in 1992?
