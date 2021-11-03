@@ -43,6 +43,8 @@ Mir
 
 10) What are the 3 types of Linux window managers?
 
+Compositing,Stacking,and Tiling
+
 11) There are 4 major Linux desktop environments in use today: which grouping is correct?
 
   d. KDE, GNOME, Xfce, LXDE
