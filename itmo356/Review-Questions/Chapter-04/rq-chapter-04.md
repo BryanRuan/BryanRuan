@@ -26,9 +26,11 @@ VT-220 terminals they used prior.
   b. X
   
 6) True or False – X was originally not opensourced by MIT in 1984
+
 True
 
 7) What is the model that the X server uses to render screens?
+
 Client Server
 
 8) What is the name of the successor GUI compositor to X being created by the X.org foundation?
@@ -36,6 +38,7 @@ Client Server
   c. Wayland Project
   
 9) What is the name of Ubuntu’s, now deprecated, GUI compositor replacement for X? (Just the name)
+
 Mir
 
 10) What are the 3 types of Linux window managers?
@@ -70,10 +73,13 @@ apply)
   d. Desktop environments have system configuration tools and user applications built in
   
 18) What is the default desktop environment for Fedora 32? (Name and versions)
+
 GNOME 50
 
 19) What is the name of the button on the upper left hand corner of the GNOME 3 desktop that you use to “launch applications?”
+
 Actitives
 
 20) What is the name of the default Ubuntu desktop environment as of April 2018?
+
 GNOME
