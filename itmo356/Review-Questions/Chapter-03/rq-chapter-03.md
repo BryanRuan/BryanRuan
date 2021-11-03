@@ -67,7 +67,7 @@ The purpose of the VistualBox Guest Additions is to improve the guest's operatin
 
 17) What is the RPM command to install a package from the command line?
  
-  b. `rpm install *.rpm`
+  
 
   d. `rpm -i *.rpm`
 
