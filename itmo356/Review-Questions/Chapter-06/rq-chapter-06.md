@@ -82,10 +82,15 @@ d. dmesg
 
 d. grep
 
-19. When you combine a tar (tape archive) and an additional compression method--what is the name for the resulting file?
+19. Which command can be used to count lines that are in a text file?
+a. count
+b. wc
+c. lines
+d. uniq
 
-d. tarball
+20. Which command can be used to find unique line occurrences in a text file? 
+a. sort
+b. uniq
+c. wc
+d. who
 
-20. What is the name of the GNU compression tool project released in 1992?
-
-d. gzip
