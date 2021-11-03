@@ -23,6 +23,7 @@ a. `DIR='ls -l ./test[1-4].txt'`
 
 
 6) Which of these are valid commands in the first line of a shell script?  (Choose any - assume any paths are valid paths to executables)
+
 a. ```#!/bin/bash```
 
 c. ```#!/usr/local/bin/bash```
