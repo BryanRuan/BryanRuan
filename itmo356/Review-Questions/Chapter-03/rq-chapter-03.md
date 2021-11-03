@@ -60,9 +60,9 @@ Type I Hypervisor
 16) Describe the purpose of VirtualBox Guest Additions?
 
 17) What is the RPM command to install a package from the command line?
-  a. `rpm -qa *.rpm`
+ 
   b. `rpm install *.rpm`
-  c. `rpm -q *.rpm`
+
   d. `rpm -i *.rpm`
 
 18) After building software from source and running the ```./configure``` command, what is the next step?
