@@ -21,6 +21,7 @@ b. ;
 
 
 5. Which meta-character allows you to string commands together but will exit if one of the commands fails?
+
 a. &&
 
 
@@ -29,6 +30,7 @@ a. &&
 d. \*
 
 7. Which meta-character is the single character wildcard?
+
 a. ?
 
 
@@ -37,6 +39,7 @@ a. ?
 d. ranges
 
 9. If you wanted to use brace expansion and create a series of nine files named: file1, file2, file3, etc etc all at once--what command would you use?  (type the full command using touch .
+
 a. touch file{1..9}
 
 10. If you wanted to assign the value of /etc/alternatives/java to a shell variable named JAVA_HOME--what would be the proper syntax?
@@ -62,6 +65,7 @@ b.  screen
 
 
 15. What meta-character can you use to redirect standard out to a file? (Choose all that apply.
+
 a. \>
 b. \>\>
 
