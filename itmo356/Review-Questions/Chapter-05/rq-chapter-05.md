@@ -14,9 +14,11 @@
 4) What is the name of the command you use to list the contents of a directory?
    
     d. ```ls```
+
 5) What is the name of the command you use to display the content of a file to the screen?
     
     d. ```cat```
+
 6) What is the name of the command you use to display the content of a file to the screen that allows you to page up and down?
    
     b. ```less```
@@ -28,12 +30,15 @@
 8) What does the user use to issue commands to the kernel?
     
     d. Shell
+
 9) What is the name of the GNU shell that is standard across all Linux Distros
    
     d. bash
+
 10) Based on the ls command, what is the option to do a long listing?
     
     d. ```ls –l```
+
 11) What is the command you can use to find out additional usage information about a shell command?
     
     b. man
@@ -50,6 +55,7 @@
     a. ```/```
    
 15) Everything (directories, files, devices) in Unix/Linux is a what?
+
 file
 
 16) What is the name of the Unix system standard developed in ~1985 that defines at a minimum what a certified Unix based system must support?
@@ -64,7 +70,9 @@ file
     a. bin
     
 19) What is the directory that holds all of the user’s home directories? (no slash, just the name)
+
 /home/controller
 
 20) True or False - Leonart Poettering created POSIX
+
 False
