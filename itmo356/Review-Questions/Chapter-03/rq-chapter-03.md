@@ -13,15 +13,19 @@
   b. etcher.io
 
 4) What is the technology that is inserted between ring 1 and ring 0 that enables virtualization?
+
 The Pacifica
 
 5) The operating system that the hypervisor resides on is called the _________ system?
+
 guest operating system
 
 6) Hosted or desktop virtualization is called what type of hypervisor?
+
 Type II Hypervisor
 
 7) Bare Metal or Native Virtualization is called what type of hypervisor?
+
 Type I Hypervisor
 
 8) Each Linux installation distro provides a mechanism to compare what you downloaded with what you expected to download, what is that called?
