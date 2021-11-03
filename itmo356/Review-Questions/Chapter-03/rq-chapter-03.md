@@ -58,6 +58,7 @@ Type I Hypervisor
  
 
 16) Describe the purpose of VirtualBox Guest Additions?
+
 The purpose of the VistualBox Guest Additions is to improve the guest's operating system for better performace and usability
 
 17) What is the RPM command to install a package from the command line?
