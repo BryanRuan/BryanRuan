@@ -8,10 +8,8 @@ a.  ```$```
 
 
 3) When assigning the standard output of a command to a variable which of these are valid methods?
+
 a. DT=``` `date` ```
-b. `DT=$(date)`
-c. `DT="date"`
-d. Not possible, trick questions
 
 4) True or False - You can include shell meta-characters inside of two backticks ``` ` ` ``` - example: ANS=``` `ls -l test[1-5]` ```
 
