@@ -73,10 +73,14 @@ GNOME 2 or to modify GNOME 3 significantly – what are the names of those proje
   
 17) Which of these statements are true in regards to Linux desktop environments? (choose all that
 apply)
-  a. Desktop environments have a File Manager
-  b. Desktop Environments have start or action buttons and task and notification bars
-  c. Desktop environments have a changeable but consistent look-and-feel
-  d. Desktop environments have system configuration tools and user applications built in
+
+a. Desktop environments have a File Manager
+
+b. Desktop Environments have start or action buttons and task and notification bars
+
+c. Desktop environments have a changeable but consistent look-and-feel
+
+d. Desktop environments have system configuration tools and user applications built in
   
 18) What is the default desktop environment for Fedora 32? (Name and versions)
 
