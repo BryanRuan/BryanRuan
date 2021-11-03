@@ -52,7 +52,8 @@
     c. tree
     
 14) What is the name of the top of the Linux Filesystem?
-    a. ```/```
+  
+  a. ```/```
    
 15) Everything (directories, files, devices) in Unix/Linux is a what?
 
@@ -67,9 +68,10 @@ file
     c. etc
     
 18) What is the directory where all the essential command binaries are stored?
-    a. bin
+   
+   a. bin
     
-19) What is the directory that holds all of the user’s home directories? (no slash, just the name)
+19) What is the absolute path of a user's home directory, assuming the user is named controller?
 
 /home/controller
 
