@@ -42,34 +42,28 @@ printenv
 d. mapfile
 
 10) Which of these is a valid command to take the output of this find command and assign the contents to an array?  (Assume the array name has already been declared. Choose one)
-a. ```mapfile SEARCHARRAY = (find ~ -name mozilla*)```
-b. ```mapfile SEARCHARRAY < < (find ~ -name mozilla*)```
+
 c. ```mapfile -t SEARCHARRAY < <(find ~ -name mozilla*)```
-d. ```mapfile -t SEARCHARRY < (find ~ -name mozilla*)```
+
 
 11) Which below is a valid command to find the LENGTH of an array?
+
 a. ```${#SEARCHARRAY[@]}```
-b. ```${SEARCHARRAY[@]}```
-c. ```${SEARACHARRAY[#]}```
-d. ```${@SEARCHARRAY[#]}```
+
 
 12) Based on this shell script and positional parameters, what would the command be to print out the first positional parameter after the script name? ```./delete-directory.sh ~/Documents/text-book Jeremy```
-a.  ```echo $0```
+
 b.  ```echo $1```
-c.  ```echo args[1]```
-d.  ```echo {$1}```
+
 
 13) Based on this shell script and positional parameters, what would the command be to print out the entire content of the positional parameter array? ```./delete-directory.sh ~/Documents/text-book Jeremy```
-a.  ```echo $#```
-b.  ```echo @!```
-c.  ```echo $0```
+
 d.  ```echo $@```
 
 14) Based on this shell script and positional parameters, what would the command be to print out the LENGTH of the positional parameter array? ```./delete-directory.sh ~/Documents/text-book Jeremy```
+
 a.  ```echo $#```
-b.  ```echo @!```
-c.  ```echo $0```
-d.  ```echo $@```
+
 
 15) In a Bash IF statement, what is the name for the pre-made test conditions?
 
@@ -82,16 +76,14 @@ b. STRING
 
 
 17) Which of these answers will execute a shell script named ~/backup.sh at 2 am every night of the week?
-a. ```* * * * * ~/backup.sh```
-b. ```2 * * * * ~/backup.sh```
+
 c. ```* 2 * * * ~/backup.sh```
-d. ```* * * 2 * ~/backup.sh```
+
 
 18) Which of these answers will execute a shell script named ~/clean-directory.sh every 15 minutes?
-a. ```3/15 * * * * ~/clean-directory.sh```
+
 b. ```*/15 * * * * ~/clean-directory.sh```
-c. ```* 3/15 * * * ~/clean-directory.sh```
-d. ```* */15 * * * ~/clean-directory.sh```
+
 
 19) Which of the crontab builtins would you use to execute a cron job 1 time a year on midnight of January 1st?  The name of the script is ~/give-free-cash-to-students.sh
 a. ```* * * * 1 ~/give-free-cash-to-students.sh```
