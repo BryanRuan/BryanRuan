@@ -83,10 +83,9 @@ d. dmesg
 d. grep
 
 19. Which command can be used to count lines that are in a text file?
+
 a. count
-b. wc
-c. lines
-d. uniq
+
 
 20. Which command can be used to find unique line occurrences in a text file? 
 a. sort
