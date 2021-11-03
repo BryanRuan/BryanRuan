@@ -90,6 +90,6 @@ GNOME 50
 
 Actitives
 
-20) What is the name of the default Ubuntu desktop environment as of April 2018?
+20) What is the name of the default Ubuntu 20.04 desktop environment?
 
 GNOME
