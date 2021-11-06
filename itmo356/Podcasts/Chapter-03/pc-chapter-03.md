@@ -4,7 +4,7 @@ Listen/watch the FLOSS podcast number 130 with the [VirtualBox Developers - http
 
 * ~2:35 Who is Andy Hall and Achim Hasenmuller?
 
-Andy Hall is a product manager for Oracle via VisualBox and Achim Hasenmuller is a lead architecture
+Andy Hall is a product manager for Oracle via VirtualBox and Achim Hasenmuller is a lead architecture
 
 * ~3:00 What is Simon Phipps relationship to the VirtualBox project?
 
@@ -12,7 +12,7 @@ He was part of the management team that acqiure this company
 
 * ~4:45 What does VirtualBox do in Andy Hall's words?
 
-A VistualBox is hypervior that allow you to run multiple visual machine at the same time
+A VirtualBox is hypervior that allow you to run multiple visual machine at the same time
 
 * ~6:30 What other company previously owned VirtualBox?
 
@@ -48,19 +48,20 @@ Hypervior and storage
 
 * ~29:29 How does VirtualBox treat USB devices in Guest OSes?
 
-
+It capture the USB devices in Gust OSes and make the host operating system to give it up
 
 * ~31:00 What are 4 virtual networking modes in VirtualBox?
 
-
+They are Internal mode,Host-only mode,Standard mode,and Bridge mode
 
 * ~32:30 What is the difference between NAT and Bridged networking?
 
-
+The difference is that Bridged require you to get a real IP address and NAT always works
 
 * ~39:30 What Type of hypervisor is VirtualBox?
 
-
+Type II Hypervior
 
 * ~51:30 Why can't you virtualize Mac OSX on VirtualBox (as of 2014)?
 
+Because VirtualBox doesn't pass through the checks of Mac OSX
