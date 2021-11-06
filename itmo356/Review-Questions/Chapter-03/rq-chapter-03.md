@@ -1,7 +1,8 @@
 # Chapter 03 - Review Questions
 
 1) What is the term for the industry standard file format that is used to install a Linux distro?
-  a. ISO
+  
+a. ISO
  
 2) What is currently the most common Linux install media type?
  
