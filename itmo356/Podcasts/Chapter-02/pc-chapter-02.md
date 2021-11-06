@@ -30,40 +30,40 @@ Hortonworks,MongoDB,and Red Hat
 
 * 19:35 What are the majority of OpenSource companies strategies to make money?
 
-
+Their strategies to make money to get an Acquire
 
 * 22:40 What do companies need to figure out about Free and OpenSource?
 
-
+They need to figure out why free and OpenSource is important to their company and what is free and OpenSource
 
 * 24:25 What is the term "Yak-Shaving" mean?
 
-
+Yak-Shaving mean something you have to deal with or do before you can do what you want to do
 
 * 27:25 Who is Vicky's new book targeting?
 
-
+It is targetting anyone who is interested in Free and OpenSource software
 
 * 28:03 What is the book about?
 
-
+It is about how to contribute to free and OpenSource software
 
 * 33:25 What is the mistaken impression about contributing to OpenSource Software?
 
-
+The mistaken impression is that you need to know coding to contribute to OpenSource Software
 
 * 37:40 What do you need to read before contributing to an OpenSource project?
 
-
+You need to read a contributing guide
 
 * 43:00 What does Vicky believe is important for a project to have and to enforce for a community?
 
-
+She believe a project should have Code of Conduct
 
 * 48:01 What is the myth about users of proprietary operating systems (Windows and MacOS)?
 
-
+There is a myth that if you use those software,you don't believe in OpenSource software
 
 * 49:00 Vicky used Linux for 10 years, what drove her away from it?
 
-
+The reason that drove her away from it was that she was spending too much time trying to make it work so that she can get her work done
