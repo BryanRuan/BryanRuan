@@ -22,11 +22,11 @@ They gain resources for anyone that is interested in their software
 
 * 15:57 What do companies struggle with when they decide to opensource their codebase and core-products and how do they solve it?
 
-
+They struggle with making money and they solve it by learning how to run a bussiness before they release their source code
 
 * 19:00 What are some of the OpenSource companies?
 
-
+Hortonworks,MongoDB,and Red Hat 
 
 * 19:35 What are the majority of OpenSource companies strategies to make money?
 
