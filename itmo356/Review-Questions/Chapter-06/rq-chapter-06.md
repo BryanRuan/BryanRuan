@@ -88,8 +88,7 @@ a. count
 
 
 20. Which command can be used to find unique line occurrences in a text file? 
-a. sort
+
 b. uniq
-c. wc
-d. who
+
 
