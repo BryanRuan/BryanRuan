@@ -21,3 +21,5 @@ Either individually, as a class, or get into groups and watch the documentary mo
 1. How does Richard Stallman react at the end of the movie to the success of the Linux kernel to the exclusion of the GNU toolchain?  
 
 1. What is the main difference between *"Free Software"* and *"Open Source Software"*?
+
+The main difference is that Free Software is software that can't be modified while Open Source Software is able to be modified by the public
