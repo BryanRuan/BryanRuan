@@ -85,9 +85,7 @@ b. ```*/15 * * * * ~/clean-directory.sh```
 
 
 19) Which of the crontab builtins would you use to execute a cron job 1 time a year on midnight of January 1st?  The name of the script is ~/give-free-cash-to-students.sh
-a. ```* * * * 1 ~/give-free-cash-to-students.sh```
-b. ```1 * * * * ~/give-free-cash-to-students.sh```
-c. ```1 1 1 1 1 ~/give-free-cash-to-students.sh```
+
 d. &#64;```yearly ~/give-free-cash-to-students.sh```
 
 20) What is the name of the control structure that allows you to incrementally through the contents of an array?
