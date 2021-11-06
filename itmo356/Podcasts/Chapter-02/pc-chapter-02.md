@@ -6,19 +6,19 @@ Listen to the Podcast at [https://twit.tv/shows/floss-weekly/episodes/500](https
 
 * 7:21  Who is Vicky Brasseur and what does she do?
 
-
+She is a former Software Engineer and is now doing freelancing to help company sustainablity use Free and Open Source Project
 
 * 8:45 What has changed the most in regards to the term OpenSource in the last 25+ years?
 
-
+OpenSource has become the default to many things such as development
 
 * 10:00 What is assumed to now be the default development pattern for new software?
 
-
+It is assumed that you have to start with Open Source for development for new software
 
 * 13:00 According to Randall, when a company publishes its code as OpenSource, what do they gain?
 
-
+They gain resources for anyone that is interested in their software
 
 * 15:57 What do companies struggle with when they decide to opensource their codebase and core-products and how do they solve it?
 
