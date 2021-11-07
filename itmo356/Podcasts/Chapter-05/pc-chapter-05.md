@@ -18,16 +18,13 @@ The podcast host define shell script as a script that deliver a whole sequence o
 
 It is the key to automation
 
-
 * ~3:28 When did Ken Thompson release his shell and what was it missing?
 
 He release his shell in 1971 and it was missing the ability to full-on scripting
 
-
 * ~3:45 What year was shell scripting come into existence?
 
 1977
-
 
 * ~4:27 What was the shell that became the AT&T UNIX standard shell?
 
@@ -47,7 +44,7 @@ It took nine months to create and the difficult part was be able mimic all of th
 
 * ~12:02 What did Brian accidentally do to the Bash Shell?
 
-
+Implement globbing
 
 * ~14:48 What was the other shell released one month before Bash?
 
