@@ -44,7 +44,7 @@ It took nine months to create and the difficult part was be able mimic all of th
 
 * ~12:02 What did Brian accidentally do to the Bash Shell?
 
-Implement globbing
+Added Meta-characters when implementing globbing
 
 * ~14:48 What was the other shell released one month before Bash?
 
