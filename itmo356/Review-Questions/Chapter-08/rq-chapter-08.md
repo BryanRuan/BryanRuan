@@ -2,6 +2,8 @@
 
 1) True or False The Bash shell scripting language has traditional language constructs like C or Java?
 
+True
+
 2) What meta-character do you use to access the content of a shell variable?
 
 a.  ```$```
