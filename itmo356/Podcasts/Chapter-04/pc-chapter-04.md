@@ -32,7 +32,7 @@ No because it is not free software
 
 * ~44:30 Who is the most famous Fedora user?
 
-Mick Randall
+Linus Torvalds
 
 * ~1:01:00 What is the difference between CentOS and RHEL?
 
