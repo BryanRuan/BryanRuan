@@ -46,31 +46,31 @@ Higher chance of having problems with the software
 
 * ~36:10 What is the Hollywood portrayal of those who develop and make software and how is it different from reality of developing software?
 
-
+Their portrayal is that they describle it as an office comedy,spy movie,and tycoon story and the difference is that it does not involve people have experience with reviewing your code and making certain decisions
 
 * ~39:10 What can a short term Project Maintainer do for a software project?
 
-
+They can collaborate with their employees,contracters,and volunteers
 
 * ~43:20 How many maintainers did the pip project have in 2017? How many do they have now in 2020? Are they paid developers?
 
-
+They have 3 maintainers in 2017 and 7 maintainers in 2020 and also they are not paid developers
 
 * ~44:44 If pip is one of the most important tool chains in the industry -- who funds its development/maintenance?
 
-
+Its almost entirely unfunded and the Python Software Foundation tries to get sponsorship and grants
 
 * ~46:40 What is the programing language that Python is written in?
 
-
+C Python
 
 * ~53:10 What is the tip for what not to do with pip on Linux?
 
-
+Don't do sudo pip,use environment to isolate your appication,and avoid dependency conflict
 
 * ~55:15 What is the website (URL) to keep up with Python language announcements?
 
-
+blog.python.org
 
 Book mentioned in the Podcast:
 
