@@ -81,7 +81,8 @@ There is encryption when transfering data and security one OwnCloud but its not 
 
 * ~37:30 - What does the FreedomBox project do ([https://www.freedombox.org/](https://www.freedombox.org/ "FreedomBox website")) and how do they compare OwnCloud?
 
-
+They build free operating system while OwnCloud focus on the appilcation
 
 * ~41:30 - What is the main new Google-like feature discussed/added in OwnCloud 6?
 
+OwnCloud Document is collaborate editing application for rich taking such as ODF and ODT files
