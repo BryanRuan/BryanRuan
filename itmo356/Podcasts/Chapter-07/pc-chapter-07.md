@@ -6,27 +6,27 @@ PIP AND THE PYTHON PACKAGE INDEX
 
 * ~7:40 What is pip and how is it related to the Python language?
 
-
+Pip is a package installer for Python
 
 * ~9:31 What are some of the utilities that a developer who is making a Python package are going to use?
 
-
+Wheel and setup
 
 * ~11:15 If someone is getting started with Python what is the right way to install packages?
 
-
+It depends on what you want to do
 
 * ~12:39 Is the number of different package managers and methods of installing Python packages a benefit to the new user?
 
-
+Yes
 
 * ~13:43 Does (did) Pradyun agree with the first speaker?
 
-
+Yes
 
 * ~14:34 Where does the overview of packaging for Python live (URL)?
 
-
+packaging.python.org
 
 * ~17:52 Where has Pradyun and pip secured opensource funding from?
 
