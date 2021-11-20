@@ -61,23 +61,23 @@ You should have a product that is very useful for people
 
 * ~26:45 - Is there commercial support available for OwnCloud?
 
-
+Yes
 
 * ~27:44 - What is the OpenSource License the OwnCloud project using?
 
-
+AGPL
 
 * ~28:28 - What rights to the GNU AGPL enforce/give you?
 
-
+You have the right to run it in your own sever as a sevice for the public,you don't have to give your changes since this is not a distribution
 
 * ~31:00 - What guarantee does a code contributor have about anything they submit to the OwnCloud project?
 
-
+Anything that do are always obeyable under the AGPL license
 
 * ~34:12 - How safe can a web-hosted OwnCloud system be against hackers?
 
-
+There is encryption when transfering data and security one OwnCloud but its not 100% secure
 
 * ~37:30 - What does the FreedomBox project do ([https://www.freedombox.org/](https://www.freedombox.org/ "FreedomBox website")) and how do they compare OwnCloud?
 
