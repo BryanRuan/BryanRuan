@@ -30,19 +30,19 @@ packaging.python.org
 
 * ~17:52 Where has Pradyun and pip secured opensource funding from?
 
-
+ Mozilla Open Source Support and Chan Zuckerberg Initiative
 
 * ~19:00 What did Sumana do with the funding received from various companies and organizations?
 
-
+She use the funding for Python Packaging Food Chain in order to improve security,localization,and accessiblity
 
 * ~30:30 How does Sumana explain "DevOps"?
 
-
+She explain DevOps as a reduction in work that computers are better at than humans
 
 * ~31:37 What happens when you release software more often?
 
-
+Higher chance of having problems with the software
 
 * ~36:10 What is the Hollywood portrayal of those who develop and make software and how is it different from reality of developing software?
 
