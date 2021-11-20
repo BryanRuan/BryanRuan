@@ -5,7 +5,7 @@ Watch or listen to this Podcast: OwnCloud
 
 * ~2:50 - Who is the creator of OwnCloud?
 
-
+Frank Karlitschek
 
 * ~3:23 - How is OwnCloud's purpose described?
 
