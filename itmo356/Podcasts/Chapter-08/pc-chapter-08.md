@@ -41,23 +41,23 @@ Yes
 
 * ~15:07 - What language is the server written in?  
 
-
+PHP
 
 * ~15:27 - What language and library are the Linux/MacOS/Windows sync clients built in?
 
-
+C++
 
 * ~20:55 - What does the c-sync tool do for OwnCloud?
 
-
+It syncs content to and from OwnCloud
 
 * ~23:58 - How many contributors to code does OwnCloud have?
 
-
+150 contributors
 
 * ~25:21 - What is the most important thing to have in order to build a thriving opensource community, according to the guest?
 
-
+You should have a product that is very useful for people 
 
 * ~26:45 - Is there commercial support available for OwnCloud?
 
