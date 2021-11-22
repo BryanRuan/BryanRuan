@@ -40,7 +40,7 @@ Patrick Debois
 
 * ~6:58 Who is Scott Hanselman?
 
-
+He is a web developer working in open source on ASP.NET and the Azure Cloud for Microsoft
 
 * ~7:24 How does Scott define DevOps?
 
