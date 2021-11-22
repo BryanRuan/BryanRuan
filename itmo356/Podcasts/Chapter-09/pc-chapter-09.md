@@ -56,7 +56,7 @@ They  write and deploy software in order to move their business forward
 
 * ~13:00 The Agile methodology says who should own the product? IT or the Developers?
 
-
+It says that everyone should own the product
 
 * ~16:48 Is DevOps a mindset or a set of tools?
 
