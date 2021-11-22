@@ -52,7 +52,7 @@ He define DevOps as a set of practices that is intended to reduce the time betwe
 
 * ~12:18 Why does a business write and deploy software?
 
-
+They  write and deploy software in order to move their business forward
 
 * ~13:00 The Agile methodology says who should own the product? IT or the Developers?
 
