@@ -48,7 +48,7 @@ He define DevOps as a set of practices that is intended to reduce the time betwe
 
 * ~8:24 DevOps is not just about Code release velocity, what is the other vital part of that code release?
 
-
+Communication
 
 * ~12:18 Why does a business write and deploy software?
 
