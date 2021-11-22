@@ -88,6 +88,7 @@ b.  ```sudo usermod -aG sudo controller```
 
 
 20) Which below are valid useradd commands?  (Choose all that apply)
+
 a. ```sudo useradd -c "User for spring class" -d "/home/export/controller" -G sudo -s /bin/ksh -m controller```
 b. ```sudo useradd -D controller```
 c. ```sudo useradd controller```
