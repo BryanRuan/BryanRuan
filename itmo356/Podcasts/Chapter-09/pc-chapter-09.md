@@ -64,3 +64,4 @@ DevOps is a mindset
 
 * ~18:25 Beyond IT and Developers, who else has to buy in for the DevOps mindset to take place?
 
+The company
