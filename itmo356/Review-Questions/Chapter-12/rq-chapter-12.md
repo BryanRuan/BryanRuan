@@ -8,7 +8,7 @@
 
 2) Using the ip2 suite of tools, which command would show your routing table?
 
-   a. `ss`
+   
    b. `route`
    c. `ip route show`
    d. `ip -r`
@@ -21,11 +21,11 @@
 
 4) What is the purpose of a netmask?
 
-
+The purpose of netmask is to block off a portion of your IP address and to inform the router how to route packets to your network
 
 5) What is the purpose of DNS?
 
-
+The purpose of DNS is to allow you to reslove written domain names
 
 6) What is the name of the systemd firewall?
 
