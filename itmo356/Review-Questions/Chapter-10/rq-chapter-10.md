@@ -57,9 +57,8 @@ b) systemd
 d) systemctl
 
 13) How would you start the `nginx.service` on an Ubuntu system using systemd?
-a) `sudo system start nginx`
-b) `sudo service start nginx`
-c) `sudo systemctl nginx start`
+
+
 d) `sudo systemctl start nginx`
 
 14) What would be the command to disable (make the service not start at boot time) the `httpd` service on Fedora using systemd?
