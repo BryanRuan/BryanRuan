@@ -48,9 +48,7 @@
 
 9) What is the default port for HTTPS (TLS/SSL)?
 
-   a. 80
-   b. 3000
-   c. 8080
+   
    d. 443
 
 10) Using Network Manager, what tool is used to release a DHCP address from the command line?
