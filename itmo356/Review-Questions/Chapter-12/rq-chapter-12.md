@@ -2,8 +2,7 @@
 
 1) Using the ip2 suite of tools, which command(s) would show your IP address?
 
-   a. `ifconfig`
-   b. `ipconfig`
+  
    c. `ip address show`
    d. `ip a sh`
 
