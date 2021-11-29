@@ -63,43 +63,33 @@ c) `sudo systemctl nginx start`
 d) `sudo systemctl start nginx`
 
 14) What would be the command to disable (make the service not start at boot time) the `httpd` service on Fedora using systemd?
-a) `sudo service httpd stop`
-b) `sudo systemctl disable apache2.service`
-c) `sudo systemctl stop httpd.service`
+
 d) `sudo systemctl disable httpd.service`
 
 15) What is the Linux command to inspect processes (not part of systemd)?
-a) p
+
 b) ps
-c) proc
-d) meminfo
+
 
 16) SysVinit used the concept of PIDs and PPIDs--what did systemd replace these with?
-a) proc-groups
-b) sys-groups
+
 c) cgroups
-d) xgroups
 
 17) What is the signal name for a kill -2 command?
-a) SIGHUP
+
 b) SIGINT
-c) SIGKILL
-d) SIGTERM
+
 
 18) The /proc filesystem provides you what?  (choose all that apply)
+
 a) Provides you a file based interface to the processes that are running on your system
 b) It can be regarded as a control and information center for the kernel
-c) Shows up to the second process usage--updated in real time
-d) Is a replacement for the top command
+
 
 19) What command can be used to list all the pci devices attached to your system?
-a) ls --pci
-b) ls -p
-c) lsusb
+
 d) lspci
 
 20) What is the runlevel target that has a single user only as root, using no password: commonly called single-user mode?
-a) runlevel3.target
-b) runlevel5.target
-c) runlevel0.target
+
 d) runlevel1.target
