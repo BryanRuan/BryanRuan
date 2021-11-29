@@ -30,9 +30,9 @@
 6) What is the name of the systemd firewall?
 
    a. systemd-firewalld
-   b. systemd-firewall
+ 
    c. firewalld-cmd
-   d. ufw
+ 
 
 7) What would be the command to list all of the firewalld public zone ports in use?
 
