@@ -31,15 +31,14 @@ The purpose of DNS is to allow you to reslove written domain names
 
    a. systemd-firewalld
  
-   c. firewalld-cmd
+  
  
 
 7) What would be the command to list all of the firewalld public zone ports in use?
 
    a. `sudo systemctl status firewalld`
    b. `sudo firewalld-cmd --zone=public --list-all`
-   c. `sudo firewall-cmd --zone=public --list-all`
-   d. `sudo firewall-cmd --list-all`
+ 
 
 8) If you had a CIDR block of /24 and a network address of 192.168.1.0, how many IP addresses would you have?
 
