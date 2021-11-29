@@ -94,10 +94,9 @@ The purpose of DNS is to allow you to reslove written domain names
  
 19) What flag would you add to this command to make it survive a reboot: `sudo firewall-cmd --zone=public --add-port=22/tcp`
 
-    a. `--peppermint`
+  
     b. `--permenant`
-    c. `--allow`
-    d. `--list-all`
+  
 
 20) Before systemd, NIC interface naming schemes depended on a driver based enumeration process. They switched to a predictable network interface naming process that depends on what for the interface names?
 
